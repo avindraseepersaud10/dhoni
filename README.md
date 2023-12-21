@@ -1,2 +1,2 @@
-# dhoni
-A brief bio about Mahi
+# Mahendra Singh Dhoni
+Hosted by Google Firebase: 
